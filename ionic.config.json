@@ -1,0 +1,7 @@
+{
+  "name": "agrilink-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
