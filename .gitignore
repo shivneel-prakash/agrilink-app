@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Ionic / Cordova build directories
+platforms/
+plugins/
+
+# Ionic generated files
+www/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage directory
+coverage/
+
+# .env
+.env
